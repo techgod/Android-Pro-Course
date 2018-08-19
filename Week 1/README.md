@@ -25,4 +25,4 @@ Cool so you've basically set up everything! As you can see, when you created the
 ### Project Files
 Have a look at the files pane on the left side of your window. It consists of a bunch of different folders & files. Currently, it should look something like this.
 
-![File Structure](assets/files_structure.png)
+![File Structure](assets/file_structure.PNG)
