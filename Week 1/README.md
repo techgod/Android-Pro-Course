@@ -29,12 +29,12 @@ Have a look at the files pane on the left side of your window. It consists of a 
 
 ![File Structure](assets/file_structure.PNG)
 
-If you look under the app module, you'll see 3 main groups.
+If you look under the app module, you'll see 3 main groups. 
 <br>**manifests**<br>
-- Contains the AndroidManifest.xml file. It's an important file we'll be looking at in more detail later in Week 4.
+Contains the AndroidManifest.xml file. It's an important file we'll be looking at in more detail later in Week 4.
 <br>**java**<br>
-- Contains the Java source code files, separated by package names, including JUnit test code. Week 3 is dedicated to the Java part of Android app building, so lets leave that for now.
+Contains the Java source code files, separated by package names, including JUnit test code. Week 3 is dedicated to the Java part of   Android app building, so lets leave that for now.
 <br>**res**<br>
-- Contains all non-code resources, such as XML layouts, UI strings, and bitmap images, divided into corresponding sub-directories. We'll be working with XML layouts in Week 3. For now, lets take a closer look at the other files present here.
+Contains all non-code resources, such as XML layouts, UI strings, and bitmap images, divided into corresponding sub-directories.       We'll be working with XML layouts in Week 3. For now, lets take a closer look at the other files present here.
 
 
