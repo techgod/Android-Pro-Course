@@ -10,4 +10,4 @@ So lets go step by step,<br>
 - [Download Android Studio](https://developer.android.com/studio/) for Windows ,Mac or Linux.
 - Installation should be straight forward. For Windows, just run the download and the follow the setup wizard. You can check [this](https://developer.android.com/studio/install) out for a complete run down of the installation if you get stuck.
 - You should hopefully see the welcome screen. Setup a new project like this. You can change the company domain to your name, but I'd recommend keeping the application name the same for now so it'll be easier to follow along.
-[Setup GIF](/assets/setup_1.gif)
+![Setup GIF](assets/setup_1.gif)
