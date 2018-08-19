@@ -7,6 +7,6 @@ Alright, so here are your week 1 assignments. Most of them are very easy and you
 4. BONUS: Change the app icon from the default to something else. HINT: [Image Asset Studio](https://developer.android.com/studio/write/image-asset-studio#about)
 
 Your app should look something like this:
-![asn1](assets/asgn1.png)
-![asn2](assets/asgn2.png)
-![asn3](assets/asgn3.png)
+![asn1](assets/asgn1.PNG)
+![asn2](assets/asgn2.PNG)
+![asn3](assets/asgn3.PNG)
