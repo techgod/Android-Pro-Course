@@ -54,7 +54,7 @@ Still, leaving questions unanswered is not a correct way to start learning a new
 
 So that's it for this week! You've made great progress having learned all the stuff you need to start development!
 
-### Make sure you check the assignments folder and complete them before the deadline!
+### Make sure you check the assignments in the 'assignments' folder and complete them before the deadline!
 
 
 
