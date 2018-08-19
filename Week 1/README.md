@@ -37,4 +37,21 @@ Contains the Java source code files, separated by package names, including JUnit
 <br>**res**<br>
 Contains all non-code resources, such as XML layouts, UI strings, and bitmap images, divided into corresponding sub-directories.       We'll be working with XML layouts in Week 3. For now, lets take a closer look at the other files present here.
 
+- drawable : this is where we put in stuff like bitmap files (.jpg, .png, .gif) etc which can be put into our app locally. You'll be adding stuff to this in Week 2
+- mipmap : this is where we put our app launcher icon (on which you click to launch the app). You'll see multiple ic_launcher.png files here. Why do we need more than one file of the same image? Well if you open the files, you'll see they are different sizes actually. Depending on the resolution of your display, an apporpriate sized image is taken.
+- values: Consists of XML files that contain simple values, such as strings, integers, and colors.
+  - Here you can see there is a file colors.xml defining color names along with their hex values.<br>**colorPrimary is mapped to the color of the Action Bar, whereas colorPrimaryDark is mapped to the color of the status bar.**
+  - strings.xml is used to store string constants such as the name of the app.
+  - styles.xml defines the theme of the app. e.g. Say you want to hide the action for an app. You can change the theme here to one with no action bar.
+
+- Finally let's have a look at the build.gradle file. You'll see two files, one at the project level (Labelled 'Project: AP_W1'), and one at the module level (Labelled 'Module: app'). We'll be editing the module level build.gradle file most of the time. You'll see a bunch of confusing stuff here, but you might understand some parameters like the minSdkVersion which is set to 21. SDK 21 corresponds to Android 5.0 Lollipop. This means only apps running Android 5.0 & above can use this app.<br>
+
+Suggested Reading: [More on Gradle](https://developer.android.com/studio/build/) **But here's my 2 cents on this.**
+Gradle is a complicated topic. You'll start understanding more as you interact with it while building apps, but even if you don't that's alright! In the end, its there to make your life easier, and as long as you have a fair idea of what it does, please don't break your head on it. XD
+Still, leaving questions unanswered is not a correct way to start learning a new topic. So check out the above link, it should clear a lot of your doubts. You can always ask me anything if you still have any questions.
+
+So that's it for this Week! Have a look at your assignments.
+
+
+
 
