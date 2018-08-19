@@ -51,7 +51,7 @@ Contains all non-code resources, such as XML layouts, UI strings, and bitmap ima
 Gradle is a complicated topic. You'll start understanding more as you interact with it while building apps, but even if you don't that's alright! In the end, its there to make your life easier, and as long as you have a fair idea of what it does, please don't break your head on it. XD <br>
 Still, leaving questions unanswered is not a correct way to start learning a new topic. So check out the above link, it should clear a lot of your doubts. You can always ask me anything if you still have any questions.
 
-So that's it for this week! You've made great progress, you've basically learned all the stuff you need to start development!
+So that's it for this week! You've made great progress having learned all the stuff you need to start development!
 
 ### Make sure you check the assignments folder and complete them before the deadline!
 
