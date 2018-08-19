@@ -47,7 +47,8 @@ Contains all non-code resources, such as XML layouts, UI strings, and bitmap ima
 - Finally let's have a look at the build.gradle file. You'll see two files, one at the project level (Labelled 'Project: AP_W1'), and one at the module level (Labelled 'Module: app'). We'll be editing the module level build.gradle file most of the time. You'll see a bunch of confusing stuff here, but you might understand some parameters like the minSdkVersion which is set to 21. SDK 21 corresponds to Android 5.0 Lollipop. This means only apps running Android 5.0 & above can use this app.<br>
 
 **Suggested Reading:** [Configure your Build](https://developer.android.com/studio/build/) 
-<br>**But here's my 2 cents on this.**<br>
+
+<br>**But here's my two cents on this.**<br>
 Gradle is a complicated topic. You'll start understanding more as you interact with it while building apps, but even if you don't that's alright! In the end, its there to make your life easier, and as long as you have a fair idea of what it does, please don't break your head on it. XD <br>
 Still, leaving questions unanswered is not a correct way to start learning a new topic. So check out the above link, it should clear a lot of your doubts. You can always ask me anything if you still have any questions.
 
