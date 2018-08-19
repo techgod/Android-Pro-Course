@@ -20,6 +20,8 @@ To run our app, we need to setup our Android Device or create an emulator. I wou
 ### Running the app
 On running the app, the app should be installed onto your device and would open automatically. The contents of the app should look somewhat like this.
 
+![Hello World](assets/hello_world.PNG)
+
 Cool so you've basically set up everything! As you can see, when you created the project, Android Studio already made the default "Hello World" app for you. Let's have a look at the files which have been generated for this default app.
 
 ### Project Files
