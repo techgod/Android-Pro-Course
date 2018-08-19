@@ -48,7 +48,7 @@ Contains all non-code resources, such as XML layouts, UI strings, and bitmap ima
 
 **Suggested Reading:** [Configure your Build](https://developer.android.com/studio/build/) 
 
-<br>**But here's my two cents on this.**<br>
+**But here's my two cents on this.**<br>
 Gradle is a complicated topic. You'll start understanding more as you interact with it while building apps, but even if you don't that's alright! In the end, its there to make your life easier, and as long as you have a fair idea of what it does, please don't break your head on it. XD <br>
 Still, leaving questions unanswered is not a correct way to start learning a new topic. So check out the above link, it should clear a lot of your doubts. You can always ask me anything if you still have any questions.
 
