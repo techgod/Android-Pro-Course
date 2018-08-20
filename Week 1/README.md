@@ -4,6 +4,8 @@ Hey there, your journey to becoming an Android Pro begins now!
 
 This week we'll learn the basics and fundaments of Android.
 
+Link to this week's video : https://drive.google.com/open?id=1qGbbW-S-FBJoQdQ7jpjyNHCMjzOlCwVk
+
 To develop Android Apps, we use the official IDE (Integrated Development Environment) for Android development called Android Studio.
 <br>So lets go step by step,<br>
 ### Instaling Android Studio
