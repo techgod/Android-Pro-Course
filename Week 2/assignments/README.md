@@ -19,7 +19,7 @@ Your week 2 assignment is based on XML Layouts. Your task is to design a layout 
 1) state of your app on launching it
 2) state after interacting with the user (e.g. filling in details in EditText)
 3) screenshot of your Android Studio development environment with the file actvity_main.xml open - this can be taken using a tool like snipping tool on Windows.
-- **Remember, marks will be allotted for your creativity, design as well as your choice of Views & ViewGroups.** Think of this similar to an English exam where you have to write an essay - your marks are simply dependent on the quality of your content, there is no right or wrong. So although you have full freedom in creating what you want, if you make your layout too simple...that's technically ok, but expect marks accordingly. At the same time remember to keep the layout clean & don't just add views because you can...make it something sensible!
+- **Remember, marks will be allotted for your creativity, design as well as your choice of Views & ViewGroups.** Think of this similar to an English exam where you have to write an essay - your marks are simply dependent on the quality of your content, there is no right or wrong. So although you have full freedom in creating what you want, if you make your layout too simple...well that's technically ok, but expect marks accordingly. At the same time remember to keep the layout clean & don't just add views because you can...make it something sensible!
 
 For your reference, here is a sample. This is also how you should take your screenshots for submitting the assignment.
 ![pic1](assets/w2_as1.png)
