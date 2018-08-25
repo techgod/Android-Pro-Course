@@ -24,5 +24,5 @@ Your week 2 assignment is based on XML Layouts. Your task is to design a layout 
 Like I said, you can create anything you want. However, for the less creative ones out there, here is a sample. This is also how you should take your screenshots for submitting your assignment.
 ![pic1](assets/w2_as1.png)
 ![pic2](assets/w2_as2.png)
-![pic3](assets/w2_as4.png)
+![pic3](assets/w2_as4.PNG)
 
