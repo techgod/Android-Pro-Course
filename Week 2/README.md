@@ -42,7 +42,7 @@ Understanding and even writing the code is important, but to start off we can ma
 ![Layout Editor](assets/gui.png)
 
 
-**Suggested Reading:** [Using the Layout Editor](https://developer.android.com/studio/write/layout-editor) for how to use the Layout Editor.
+**Suggested Reading:** [Using the Layout Editor](https://developer.android.com/studio/write/layout-editor)
 
 LinearLayout is good and all, but let’s say we wanted text somewhere on the extreme top of the layout and then some at the extreme bottom. Linear Layout only allows us to place elements one below the other. For such a requirement, we can use a ViewGroup called RelativeLayout.
 
