@@ -5,18 +5,23 @@
 #### Link to this week's video : 
 
 
-Note: Before starting, I’d like to tell you the format this week’s content is a bit different from that of the last week. This week, I’ll be running over the entire contents of the week but not provide you with a detailed explanation for each part. Instead, I’ll be putting links to documents explaining the topic. The reason being, most of the links are straight from the official Android Developers website ( https://developer.android.com ) where you’ll find the most thorough explanation there is, better than what I can probably give. Also, I’d like you to get familiar with using the developer website as going forward, it’s going to be your most helpful tool! It has everything from beginner tutorials to documentation for the most complex classes, so when you’re stuck, it’s a good place to begin.
+Before starting, I’d like to tell you the format this week’s content is a bit different from that of the last week. This week, I’ll be running over the entire contents of the week but not provide you with a detailed explanation for each part. 
+
+Instead, I’ll be putting links to documents explaining the topic. The reason being, most of the links are straight from the official Android Developers website ( https://developer.android.com ) where you’ll find the most thorough explanation there is, better than what I can probably give. 
+
+Also, I’d like you to get familiar with using the developer website as going forward, it’s going to be your most helpful tool! It has everything from beginner tutorials to documentation for the most complex classes, so when you’re stuck, it’s a good place to begin.
+
 However, for someone just starting off, the site can get a bit overwhelming with some random terms everywhere. So, for now, I’ll be giving you direct links to the pages & sections which you should read. You are however welcome encouraged to explore beyond.
 
 
 For literally every element you interact with in the app, it is defined in a language known as XML. XML stands for extensible markup language. Think of it similar to HTML. 
 
-Suggested Reading: [Introduction to XML](https://www.w3schools.com/xml/xml_whatis.asp)
+**Suggested Reading:** [Introduction to XML](https://www.w3schools.com/xml/xml_whatis.asp)
 
 Have a look at this week’s video, I have given a basic explanation of how layouts work.
 To summarize, layouts consists of two main parts, Views & ViewGroups. Views are what we see & interact with (e.g. buttons, textfields etc) whereas ViewGroups are containers which hold the views – deciding how they are arranged.
 
-[Basic Overview of View and ViewGroups](https://developer.android.com/guide/topics/ui/declaring-layout)
+**Suggested Reading:** [Basic Overview of View and ViewGroups](https://developer.android.com/guide/topics/ui/declaring-layout)
 
 The first step is to learn a few different views we can use. The most important ones are TextView, EditText, Button & ImageView. We’ll also be using some others like ImageButton, RadioButton, CheckBox occasionally depending on our use. 
 
