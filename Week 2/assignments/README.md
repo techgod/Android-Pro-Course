@@ -3,9 +3,9 @@
 To get started, create a new project in Android Studio.
 
 Your week 2 assignment is based on XML Layouts. Your task is to design a layout of your own. <br>
-**You're given full freedom in choosing what you want to make. There is no right or wrong in this assignment.**
+**You're given full freedom in choosing what you want to make.** Yep...you can literally make anything you want! But...have a look at the guidelines first...there's always some fineprint. XD
 
-**Here are some important guidelines you should follow: **
+**Guidelines:**
 
 - Include atleast the following 4 types of views in your app:<br>
   - TextView
