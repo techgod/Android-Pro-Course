@@ -5,10 +5,10 @@
 #### Link to this week's video : \*will be added here\*
 
 
-*Note: Before starting, I’d like to tell you the format this week’s content is a bit different from that of the last week. This week, I’ll be running over the entire contents of the week but not provide you with a detailed explanation for each part. <br>
-Instead, I’ll be putting links to documents explaining the topic. The reason being, most of the links are straight from the official Android Developers website ( https://developer.android.com ) where you’ll find the most thorough explanation there is, better than what I can probably give. <br>
-Also, I’d like you to get familiar with using the developer website as going forward, it’s going to be your most helpful tool! It has everything from beginner tutorials to documentation for the most complex classes, so when you’re stuck, it’s a good place to begin.<br>
-However, for someone just starting off, the site can get a bit overwhelming with some random terms everywhere. So, for now, I’ll be giving you direct links to the pages & sections which you should read. You are however welcome encouraged to explore beyond.*
+*Note: Before starting, I’d like to tell you the format for this week’s content is a bit different from that of the last week. This week, I’ll be running over the entire contents of the week but not provide you with a detailed explanation for each part. <br>
+Instead, I’ll be putting links to documents explaining the topic. The reason being, the links here are from the best websites around the internet where frankly you’ll find the most thorough explanation there is, better than what I can probably give. <br>
+Also, I’d like you to get familiar with using the Android Developers Website ( https://developer.android.com ) as going forward, it’s going to be your most helpful tool! It has everything from beginner tutorials to documentation for the most complex classes. So when you’re stuck, it’s a good place to begin.<br>
+However, for someone just starting off, the site can get a bit overwhelming with some random terms everywhere. So, for now, I’ll be giving you direct links to the pages & sections which you should read. You are however ~~welcome~~ encouraged to explore beyond.*
 
 
 So literally every element you can view and interact with in the app is defined in a language known as XML. XML stands for **extensible markup language.** Think of it similar to HTML, except the tags in XML do not have a pre-defined meaning and are dependent on the platform. 
