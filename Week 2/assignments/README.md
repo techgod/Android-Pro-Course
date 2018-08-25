@@ -3,7 +3,7 @@
 To get started, create a new project in Android Studio.
 
 Your week 2 assignment is based on XML Layouts. Your task is to design a layout of your own. <br>
-**You're given full freedom in choosing what you want to make.** Yep...you can literally make anything you want! But...have a look at the guidelines first...there's always some fineprint. XD
+**You're given full freedom in choosing what you want to make.** Yep, that's right...you can literally make anything you want! You may want to have a look at the guidelines though! (there's always some fineprint involved, isn't there? XD)
 
 **Guidelines:**
 
