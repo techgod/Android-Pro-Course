@@ -5,16 +5,13 @@
 #### Link to this week's video : 
 
 
-Before starting, I’d like to tell you the format this week’s content is a bit different from that of the last week. This week, I’ll be running over the entire contents of the week but not provide you with a detailed explanation for each part. 
-
-Instead, I’ll be putting links to documents explaining the topic. The reason being, most of the links are straight from the official Android Developers website ( https://developer.android.com ) where you’ll find the most thorough explanation there is, better than what I can probably give. 
-
-Also, I’d like you to get familiar with using the developer website as going forward, it’s going to be your most helpful tool! It has everything from beginner tutorials to documentation for the most complex classes, so when you’re stuck, it’s a good place to begin.
-
-However, for someone just starting off, the site can get a bit overwhelming with some random terms everywhere. So, for now, I’ll be giving you direct links to the pages & sections which you should read. You are however welcome encouraged to explore beyond.
+*Note: Before starting, I’d like to tell you the format this week’s content is a bit different from that of the last week. This week, I’ll be running over the entire contents of the week but not provide you with a detailed explanation for each part. <br>
+Instead, I’ll be putting links to documents explaining the topic. The reason being, most of the links are straight from the official Android Developers website ( https://developer.android.com ) where you’ll find the most thorough explanation there is, better than what I can probably give. <br>
+Also, I’d like you to get familiar with using the developer website as going forward, it’s going to be your most helpful tool! It has everything from beginner tutorials to documentation for the most complex classes, so when you’re stuck, it’s a good place to begin.<br>
+However, for someone just starting off, the site can get a bit overwhelming with some random terms everywhere. So, for now, I’ll be giving you direct links to the pages & sections which you should read. You are however welcome encouraged to explore beyond.*
 
 
-For literally every element you interact with in the app, it is defined in a language known as XML. XML stands for extensible markup language. Think of it similar to HTML. 
+So literally every element you can view and interact with in the app is defined in a language known as XML. XML stands for **extensible markup language.** Think of it similar to HTML, except the tags in XML do not have a pre-defined meaning and are dependent on the platform. 
 
 **Suggested Reading:** [Introduction to XML](https://www.w3schools.com/xml/xml_whatis.asp)
 
@@ -25,12 +22,17 @@ To summarize, layouts consists of two main parts, Views & ViewGroups. Views are 
 
 The first step is to learn a few different views we can use. The most important ones are TextView, EditText, Button & ImageView. We’ll also be using some others like ImageButton, RadioButton, CheckBox occasionally depending on our use. 
 
-Check out [this](https://www.formget.com/android-views/) useful list of views along with the code to implement them. Don’t worry if you don’t understand the code right now, we’ll be seeing that later. Make sure you explore the different attributes of these views though – width, height, text and check out the possible values.
+Check out the link below for a useful list of views along with the code to implement them. Don’t worry if you don’t understand the code right now, we’ll be seeing that later. Make sure you explore the different attributes of these views though – width, height, text and check out the possible values.
+**Suggested Reading:** [Android Views](https://www.formget.com/android-views/) 
 
 
-Now that you have an idea of the views, lets take a look at ViewGroups. We’ll be learning about two types of ViewGroups this week, LinearLayout and RelativeLayout. Let’s start with LinearLayout.
+Now that you have an idea of the views, lets take a look at ViewGroups. We’ll be learning about two types of ViewGroups this week, LinearLayout and RelativeLayout. 
 
-[LinearLayout] (https://developer.android.com/guide/topics/ui/layout/linear) : This arranges views in a linear order, either horizontally or vertically. It’s probably the easiest to implement yet very powerful and is used even in complex layouts. Follow the link to learn more on Linear Layouts.
+![Layouts](assets/layouts.jpg)
+
+Let’s start with LinearLayout.
+
+[LinearLayout](https://developer.android.com/guide/topics/ui/layout/linear) : This arranges views in a linear order, either horizontally or vertically. It’s probably the easiest to implement yet very powerful and is used even in complex layouts. Follow the link to learn more on Linear Layouts.
 
 Check out the example code at the above link, you’ll see that there is an outer LinearLayout tag, inside which there are multiple views (3 EditText and a Button). The linear layout has its attribute set to vertical which means the views are arranged one below the other.
 
