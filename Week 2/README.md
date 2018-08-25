@@ -39,7 +39,7 @@ Let’s start with LinearLayout.
 Check out the example code at the above link, you’ll see that there is an outer LinearLayout tag, inside which there are multiple views (3 EditText and a Button). The linear layout has its attribute set to vertical which means the views are arranged one below the other.
 
 Understanding and even writing the code is important, but to start off we can make use of a super cool tool in Android Studio – Layout Editor! Using this, making layouts can be as easy as drag and drop. 
-![Layout Editor](assets/gui.png)
+![Layout Editor](assets/gui.PNG)
 
 
 **Suggested Reading:** [Using the Layout Editor](https://developer.android.com/studio/write/layout-editor)
