@@ -11,7 +11,7 @@ Also, I’d like you to get familiar with using the Android Developers Website (
 However, for someone just starting off, the site can get a bit overwhelming with some random terms everywhere. So, for now, I’ll be giving you direct links to the pages & sections which you should read. You are however ~~welcome~~ encouraged to explore beyond.*
 
 
-So literally every element you can view and interact with in the app is defined in a language known as XML. XML stands for **extensible markup language.** Think of it similar to HTML, except the tags in XML do not have a pre-defined meaning and are dependent on the platform. 
+So literally every element you can view and interact with in the app is defined in a language known as XML. XML stands for **eXtensible Markup Language.** Think of it similar to HTML, except the tags in XML do not have a pre-defined meaning and are dependent on the platform. 
 
 **Suggested Reading:** [Introduction to XML](https://www.w3schools.com/xml/xml_whatis.asp)
 
