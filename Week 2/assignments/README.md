@@ -26,4 +26,4 @@ Like I said, you can create anything you want. However, for the less creative on
 ![pic2](assets/w2_as2.png)
 ![pic3](assets/w2_as4.PNG)
 
-## Deadline: 3:30pm - Friday, 31st August. Please submit your assignments before this to avoid late submission penalty.
+## Deadline: 3:30pm - Friday, 31st August 2018. Please submit your assignments before this to avoid late submission penalty.
