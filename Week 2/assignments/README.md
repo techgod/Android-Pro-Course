@@ -18,11 +18,11 @@ Your week 2 assignment is based on XML Layouts. Your task is to design a layout 
 - Submissions will be accepted on Edmodo. You'll see a section to turn in your assignment for Week 2. **Take a minimum of 3 screenshots and upload it there**, showing 
 1) state of your app on launching it
 2) state after interacting with the user (e.g. filling in details in EditText)
-3) icon on homescreen
+3) screenshot of your Android Studio development environment with actvity_main.xml - this can be taken using a tool like snipping tool
 - Remember, marks will be allotted for your creativity, design as well as your choice of Views & ViewGroups. Keep the layout clean & simple. Don't just add views because you can, make it something sensible.
 
 Like I said, you can create anything you want. However, for the less creative ones out there, here is a sample. This is also how you should take your screenshots for submitting your assignment.
 ![pic1](assets/w2_as1.png)
 ![pic2](assets/w2_as2.png)
-![pic3](assets/w2_as3.png)
+![pic3](assets/w2_as4.png)
 
