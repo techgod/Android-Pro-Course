@@ -1,4 +1,4 @@
-## Fixing problem where layout editor remains blank.
+## Fixing problem where layout editor is blank.
 
 Some of you may face this problem where the layout editor is blank even though you have added views to the layout.<br>
 ![trouble1](assets/trouble1.PNG)<br>
