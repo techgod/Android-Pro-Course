@@ -18,4 +18,4 @@ Anyway, fixing the problem is easy.
 - Make changes to the build.gradle file where highlighted in the picture. The final build.gradle file should look like that. Don't forget to sync your project.
 
 Your problem should now be fixed, and your layout editor should reflect the views you've added.<br>
-![trouble4](assets/trouble4.png)
+![trouble4](assets/trouble4.PNG)
