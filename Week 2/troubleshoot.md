@@ -7,7 +7,7 @@ The problem is actually with one of the support libraries in the SDK 28 platform
 Anyway, fixing the problem is easy.
 
 ### Step 1 - Install SDK Platform 27<br>
-![trouble2](assets/trouble2.PNG)<br>
+![trouble2](assets/trouble2.jpg)<br>
 - Open the SDK Manager by clicking on the icon (1).
 - Expand the packages by clicking show package details (2).
 - Tick the first two boxes under Android 8.1 as shown. (3). If its already ticked, then ignore this step.
