@@ -1,4 +1,4 @@
-# Week 3 - Understanding Activities with Java
+# Week 3 - Understanding Activities with Java (Work In Progress)
 
 #### Great going! You're halfway through the course now! In fact, once you complete this weeks course, you'll be able to make complete apps.
 
