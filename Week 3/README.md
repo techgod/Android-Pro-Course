@@ -23,7 +23,7 @@ Lets start off by trying to find a reference to one of our elements in the layou
 3) Access the methods of the class through the object.
 
 Example:
-```android
+```java
 Button bt;
 bt= findViewById(R.id.button);
 bt.setText("Click Me!")
