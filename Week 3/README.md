@@ -29,4 +29,10 @@ bt= findViewById(R.id.button);
 bt.setText("Click Me!")
 ```
 
+Let's have a look at another important concept now...starting a new activity. For any useful app, you can't possibly fit the entire app on one screen. 
+To start a new activity, we use something called Intents. Intents carry information required for the transition of the activity. We can also pass extra information through intents. So through intents, our activities can even communicate with each other.
+**STRONGLY Suggested Reading:** [Starting a New Activity](https://developer.android.com/training/basics/firstapp/starting-activity)
+
+That's the basic crux of Week 3. I'll be also be uploading the demo project I had created during the GD in the ***code*** folder.
+
 ### Make sure you check the assignments in the 'assignments' folder and complete them before the deadline!
