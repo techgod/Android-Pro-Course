@@ -1,4 +1,4 @@
-## Week 3 Assignment
+# Week 3 Assignment
 
 So this week you're assignment is to add Java side functionality to your app. You can continue with the same project you did in week 2 as you already have the layout ready. (Though you're free to create a new project too if you please)
 
@@ -14,6 +14,8 @@ Take screenshots of:
 3) the second activity with the responses
 
 Example:
+
+
 ![w3_as](assets/w3_asgn.gif)
 
-## Deadline: 3:30pm - Friday, 31st August 2018. Please submit your assignments before this to avoid late submission penalty.
+## Deadline: 3:30pm - Friday, 21st September 2018. Please submit your assignments before this to avoid late submission penalty.
