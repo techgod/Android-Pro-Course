@@ -13,6 +13,8 @@ Now have a look at the methods in the activity. Right now, you'll see only one m
 Suggested Reading:
 
 [Activity Lifecycle](https://developer.android.com/guide/components/activities/activity-lifecycle)
+
+
 Anyway, there are already a couple of stuff there. You'll also find an explanation to the above stuff in the link above. Lets not mess around with it. One interesting line here though is *setContentView(R.layout.activity_main)* . *R.layout.activity_main* is nothing but the path of the XML layout file which you had last week. This is how the activity knows what layout to inflate.
 
 Lets start off by trying to find a reference to one of our elements in the layouts. The general procedure is:
@@ -20,11 +22,11 @@ Lets start off by trying to find a reference to one of our elements in the layou
 2) initialize it to the view returned using the findViewById() method
 3) Access the methods of the class through the object.
 
-Example
-'''Android
+Example:
+```android
 Button bt;
 bt= findViewById(R.id.button);
 bt.setText("Click Me!")
-'''
+```
 
 ### Make sure you check the assignments in the 'assignments' folder and complete them before the deadline!
