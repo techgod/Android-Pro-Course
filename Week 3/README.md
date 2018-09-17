@@ -12,7 +12,7 @@ Now have a look at the methods in the activity. Right now, you'll see only one m
 
 ![activity](assets/a_lifecycle.png)
 
-**Suggested Reading: **[Activity Lifecycle](https://developer.android.com/guide/components/activities/activity-lifecycle)
+**Suggested Reading:** [Activity Lifecycle](https://developer.android.com/guide/components/activities/activity-lifecycle)
 
 Ok back to the onCreate() method.There are already a couple of stuff there. You'll also find an explanation to the above stuff in the link above..but lets not mess around with it much. One interesting line here though is *setContentView(R.layout.activity_main)* . *R.layout.activity_main* is nothing but the path of the XML layout file which you had last week. This is how the activity knows what layout to inflate.
 
