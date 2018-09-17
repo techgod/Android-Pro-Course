@@ -33,7 +33,8 @@ To start a new activity, we use something called Intents. Intents carry informat
 
 **STRONGLY Suggested Reading:** [Starting a New Activity](https://developer.android.com/training/basics/firstapp/starting-activity)
 
-That's the basic crux of Week 3. I'll be also be uploading the demo project I had created during the GD in the ***code*** folder.
-Going through the given links and the demo code should give you a good undestanding of the whole concept. Have fun!
+That's the basic crux of Week 3. I'll be also be uploading the demo project I had created during the GD in the ***code*** folder. This is why we used GitHub in the first place, GitHub makes it easier to read & share code! You can try downloading and running the code, but even browsing the files on GitHub itself is super convinient, so be sure to do atleast that.
+
+I think going through the given links and the demo code should give you a good undestanding of the whole concept. Have fun!
 
 ### Make sure you check the assignments in the 'assignments' folder and complete them before the deadline!
