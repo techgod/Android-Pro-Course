@@ -10,7 +10,7 @@ Lets start by having a look at the java folder in our project. You'll have a jav
 
 Now have a look at the methods in the activity. Right now, you'll see only one method called onCreate(). For simplicity, just think of it as a special method which runs whenever the app starts...i.e. you won't have to be calling it manually. Here are some of the other inherited methods avaiable to us and when they're executed. Feel free to explore the same!
 
-[!activity](assets/a_lifecycle.png)
+![activity](assets/a_lifecycle.png)
 
 **Suggested Reading:**[Activity Lifecycle](https://developer.android.com/guide/components/activities/activity-lifecycle)
 
