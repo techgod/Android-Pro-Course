@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:xyz="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/tv1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/app_name"
+        xyz:layout_constraintBottom_toBottomOf="parent"
+        xyz:layout_constraintLeft_toLeftOf="parent"
+        xyz:layout_constraintRight_toRightOf="parent"
+        xyz:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/tv2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hello World"
+        xyz:layout_constraintBottom_toBottomOf="parent"
+        xyz:layout_constraintLeft_toLeftOf="parent"
+        xyz:layout_constraintRight_toRightOf="parent"
+        xyz:layout_constraintTop_toBottomOf="@id/tv1"
+        xyz:layout_constraintVertical_bias="0.58000004" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/bt_1"
+        android:text="next"
+        xyz:layout_constraintBottom_toBottomOf="parent"
+        xyz:layout_constraintLeft_toLeftOf="parent"
+        xyz:layout_constraintRight_toRightOf="parent"
+        xyz:layout_constraintTop_toBottomOf="@id/tv2"
+        />
+
+</android.support.constraint.ConstraintLayout>
