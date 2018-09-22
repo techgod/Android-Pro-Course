@@ -13,14 +13,14 @@ We have already seen an implementation of this in our GD. Here's a full walkthro
 
 [Getting Started with Maps on Android](https://developers.google.com/maps/documentation/android-sdk/start)
 
-Other useful refrence material:
-[Creating a Map With Marker](https://developers.google.com/maps/documentation/android-sdk/map-with-marker)
-[Circle - Docs](https://developers.google.com/android/reference/com/google/android/gms/maps/model/Circle)
-[LatLng - Docs](https://developers.google.com/android/reference/com/google/android/gms/maps/model/LatLng)
+Other useful refrence material:<br>
+[Creating a Map With Marker](https://developers.google.com/maps/documentation/android-sdk/map-with-marker)<br>
+[Circle - Docs](https://developers.google.com/android/reference/com/google/android/gms/maps/model/Circle)<br>
+[LatLng - Docs](https://developers.google.com/android/reference/com/google/android/gms/maps/model/LatLng)<br>
 
 Firebase Overview:
-Instead of learning the coding aspect of Firebase, the idea here is to show you about the existence of Firebase & other such tools to make your life easier! Just have a look!
-[Firebase](https://en.wikipedia.org/wiki/Firebase)
-[Introducing Firebase](https://www.youtube.com/watch?v=O17OWyx08Cg)
+Instead of learning the coding aspect of Firebase, the idea here is to show you about the existence of Firebase & other such tools to make your life easier! Just have a look!<br>
+[Firebase](https://en.wikipedia.org/wiki/Firebase)<br>
+[Introducing Firebase](https://www.youtube.com/watch?v=O17OWyx08Cg)<br>
 
 ### Make sure you check the assignments in the 'assignments' folder and complete them before the deadline!
