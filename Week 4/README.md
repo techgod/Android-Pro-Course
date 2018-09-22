@@ -1,16 +1,14 @@
-# Week 4 - Firebase & Google APIs
+# Week 4 - Google APIs & Firebase
 
 #### You've made it! The 4th & final week of our course. You've done some amazing stuff in the last 3 weeks and basically have all the knowledge to create basic apps. Let's have a look at some advanced concepts.
 
 #### Link to this week's video : **to be inserted**
 
+
+That can be added using APIs. API stands for Application Programming Interface. A 
+good API makes it easier to develop a computer program by providing all the building blocks, which are then put together by the programmer. 
+
 First lets have a look at using Google APIs.
-
-(Some info about APIs - Google Dev console)
-
-Put tutorial to add map to app
-
-![activity](assets/a_lifecycle.png)
 
 **Suggested Reading:** [Activity Lifecycle](https://developer.android.com/guide/components/activities/activity-lifecycle)
 
@@ -33,7 +31,7 @@ To start a new activity, we use something called Intents. Intents carry informat
 
 **STRONGLY Suggested Reading:** [Starting a New Activity](https://developer.android.com/training/basics/firstapp/starting-activity)
 
-That's the basic crux of Week 3. I'll be also be uploading the demo project I had created during the GD in the ***code*** folder.
+That's the basic crux of it. I'll be also be uploading the demo project I had created during the GD in the ***code*** folder.
 Going through the given links and the demo code should give you a good undestanding of the whole concept. Have fun!
 
 ### Make sure you check the assignments in the 'assignments' folder and complete them before the deadline!
