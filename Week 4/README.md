@@ -22,6 +22,8 @@ Other useful refrence material:<br>
 [Circle - Docs](https://developers.google.com/android/reference/com/google/android/gms/maps/model/Circle)<br>
 [LatLng - Docs](https://developers.google.com/android/reference/com/google/android/gms/maps/model/LatLng)<br>
 
+**I have added the project I created in the GD in the code folder for this Week.** It contains the code to add a map to the project & add a marker to it. You can download it, open the project & run it. Or you can use it as refrence to create your own map project. Everything you need is in there.
+
 Firebase Overview:
 Instead of learning the coding aspect of Firebase, the idea here is to show you about the existence of Firebase & other such tools to make your life easier! Just have a look!<br>
 [Firebase](https://en.wikipedia.org/wiki/Firebase)<br>
