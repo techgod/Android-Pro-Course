@@ -7,11 +7,6 @@
 That can be added using APIs. API stands for Application Programming Interface. A 
 good API makes it easier to develop a computer program by providing all the building blocks, which are then put together by the programmer. 
 
-
-
-That can be added using APIs. API stands for Application Programming Interface. A 
-good API makes it easier to develop a computer program by providing all the building blocks, which are then put together by the programmer. 
-
 First lets have a look at using Google APIs. More specifically, you lets check out the Maps SDK for Android - API
 We have already seen an implementation of this in our GD. Here's a full walkthrough to add a map to your app:
 
