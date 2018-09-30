@@ -1,4 +1,3 @@
-
 public class MainActivity extends AppCompatActivity {
 
     @Override
@@ -11,6 +10,7 @@ public class MainActivity extends AppCompatActivity {
         final RatingBar rb = findViewById(R.id.ratingBar1);
 
 
+        final Intent it = new Intent(this,SecondActivity.class);
 
         bt.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -20,7 +20,7 @@ public class MainActivity extends AppCompatActivity {
                 String rating = String.valueOf(rat);
                 Toast.makeText(getApplicationContext(),s,Toast.LENGTH_LONG).show();
                 Toast.makeText(getApplicationContext(),rating,Toast.LENGTH_LONG).show();
-
+                startActivity(it);
             }
         });
         }
