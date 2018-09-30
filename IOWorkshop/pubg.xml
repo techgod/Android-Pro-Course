@@ -23,4 +23,11 @@
         android:textSize="22sp"
         android:textStyle="bold" />
 
+    <RatingBar
+        android:id="@+id/ratingBar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:numStars="5" />
+
 </LinearLayout>
