@@ -4,6 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@color/bg_color"
     android:orientation="vertical"
     tools:context=".MainActivity">
 
@@ -12,5 +13,14 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         app:srcCompat="@drawable/pubg" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="PUBG"
+        android:textSize="22sp"
+        android:textStyle="bold" />
 
 </LinearLayout>
