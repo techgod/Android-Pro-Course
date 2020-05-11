@@ -1,6 +1,6 @@
 # Week 4 - Google APIs & Firebase
 
-#### Link to this week's video : https://drive.google.com/open?id=1pp5NfkxQTQ6bMtQOi1iUKeIk3APa4wRW
+#### Check out this week's video overview [here.](https://youtu.be/qntqJEd1sSw)
 
 #### You've made it! The 4th & final week of our course. You've done some amazing stuff in the last 3 weeks! You have all the ingredients to make a complete app. But now let's talk about stuff which adds that extra flavouring to your app!
 
