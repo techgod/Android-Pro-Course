@@ -2,7 +2,7 @@
 
 #### Great going! You're halfway through the course now! In fact, once you complete this weeks course, you'll be able to make complete apps.
 
-#### Link to this week's video : https://drive.google.com/open?id=1iFlht4lht25IKnUkMelgfbrttbh63uqJ
+#### Check out this week's video overview [here.](https://youtu.be/X0EOfNHk79g)
 
 Last week, you guys designed the layout for your apps using XML. Your apps probably look complete now...but if you think of it, do they actually perform any functions? When you enter information and click a button, does it actually do anything? Well its time to do just that!
 
