@@ -1,6 +1,7 @@
 # Android Pro Course
 ### 4 Week Course To Learn Android
 #### *Created for PESU IO by Yash Pradhan*
+##### Check out the intro video for the course [here.](https://youtu.be/ULWGjNiGMIo)
 ##### Some General Instructions
 The README for each week contains everything you'll be doing that week. There will also be supporting material and files in each week's folder, be sure to check that out.
 
