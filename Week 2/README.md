@@ -2,7 +2,7 @@
 
 #### A week down, 3 more to go! This week we learn about XML Layouts.
 
-#### Link to this week's video : https://drive.google.com/file/d/1MzsMe18rMM3mQ2CfIpXyeyB_beiwGp9u/view?usp=sharing
+#### Check out this week's video overview [here.](https://youtu.be/z8EakulBOzc)
 
 
 *Note: Before starting, I’d like to tell you the format for this week’s content is a bit different from that of the last week. This week, I’ll be running over the entire contents of the week but not provide you with a detailed explanation for each part. <br>
